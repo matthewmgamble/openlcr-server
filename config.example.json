@@ -1,0 +1,13 @@
+{
+  "logFileName": "openlcr-server.log",
+  "logDir": "/var/log",
+  "mySQLServer": "127.0.0.1",
+  "mySQLUser": "dbuser",
+  "mySQLPass": "dbpass",
+  "mySQLDatabase": "lcr",
+  "sipPort": "5060",
+  "sipAddress": "127.0.0.1",
+  "sipErrorCode": "418",
+  "sipResponseCode": "302",
+  "sipPlatform": "metaswitch"
+}
